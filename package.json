@@ -1,5 +1,5 @@
 {
-  "name": "evobot",
+  "name": "yanehbot.js",
   "version": "0.7.0",
   "description": "Discord music bot built with discord.js",
   "main": "index.js",
